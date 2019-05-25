@@ -1,6 +1,6 @@
 # Live2D API
 
-自搭API   浏览地址 Amayaliu.cn 
+自搭API   浏览地址 https://www.Amayaliu.cn 
 
 ### 特性
 
